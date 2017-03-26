@@ -14,4 +14,4 @@ $> npm install
 $> node server.js
 ```
 
-> open [localhost:8080](http://localhost:8080 target="_blank") at browser
+> open [localhost:8080](http://localhost:8080) at browser
