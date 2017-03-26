@@ -15,3 +15,4 @@ $> node server.js
 ```
 
 >open localhost:8080 at browser
+> open localhost:8080 at browser
